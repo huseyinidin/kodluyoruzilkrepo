@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz] (www.kodluyoruz.org) Back-End Eğitimi kapsamında açtığ
 
 ## Installation
 
-Öncelikle projeyi clonelayın [Link] (https://github.com/huseyinidin/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın [Link] (https://github.com/huseyinidin/kodluyoruzilkrepo/blob/main/img/kodluyoruz_logo.jpg?raw=true)
 
 ## Usage
 
