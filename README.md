@@ -1,12 +1,12 @@
 ﻿# kodluyoruzilkrepo
 Bu repo [Kodluyoruz] (www.kodluyoruz.org) Back-End Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html içeriyor.
 
-![Kodluyoruz Logo](D:\kodluyoruz\kodluyoruzilkrepo\img\kodluyoruz_logo.jpg)
+![Kodluyoruz Logo](https://github.com/huseyinidin/kodluyoruzilkrepo/blob/main/img/kodluyoruz_logo.jpg?raw=true)
 
 
 ## Installation
 
-Öncelikle projeyi clonelayın [Link] (https://github.com/huseyinidin/kodluyoruzilkrepo/blob/main/img/kodluyoruz_logo.jpg?raw=true)
+Öncelikle projeyi clonelayın (https://github.com/huseyinidin/kodluyoruzilkrepo.git)
 
 ## Usage
 
