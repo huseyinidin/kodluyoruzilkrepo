@@ -1,5 +1,5 @@
 ﻿# kodluyoruzilkrepo
-Bu repo [Kodluyoruz] (www.kodluyoruz.org) Back-End Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html içeriyor.
+Bu repo [Kodluyoruz] (https://www.kodluyoruz.org) Back-End Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html içeriyor.
 
 ![Kodluyoruz Logo](https://github.com/huseyinidin/kodluyoruzilkrepo/blob/main/img/kodluyoruz_logo.jpg?raw=true)
 
